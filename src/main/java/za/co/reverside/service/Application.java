@@ -1,9 +1,8 @@
 package za.co.reverside.service;
 
-import com.zenerick.service.document.Service;
 
+import com.zenerick.service.document.Service;
 import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @Service
 public class Application {
